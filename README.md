@@ -7,8 +7,8 @@
 
 ### Como iniciar os arquivos
 
-- **Front-End:** npm run dev
-- **Back-End:** npm start
+- **Front-End:** `npm run dev`
+- **Back-End:** `npm start`
 
 ## Descrição da atividade
 
