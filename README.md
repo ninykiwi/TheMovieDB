@@ -3,8 +3,12 @@
 ## Informações principais
 
 - **Núcleo:** Web
-- **Orientadores:** [Márcio Ribeiro Júnior](https://github.com/ribmarciojr), [Djair Mycon]() e [Fábio Matos]()
-- **Coorientadores gerais:** Raissa Luna | Lucas Júlio
+- **Integrantes:** [Stefanny Oliveira](https://github.com/ninykiwi) e [Allan B. C.](https://github.com/Alfabeto-Allan)
+
+### Como iniciar os arquivos
+
+- **Front-End:** npm run dev
+- **Back-End:** npm start
 
 ## Descrição da atividade
 
